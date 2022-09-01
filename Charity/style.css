@@ -1,0 +1,73 @@
+.title {
+  position: absolute;
+  bottom: 450px;
+  right: 300px;
+  font-size: 60px;
+  padding: 10px;
+}
+.logo {
+  width: 10%;
+  height: 10%;
+}
+.vertical1 {
+  transform: rotate(90deg);
+  margin-right: 550px;
+  margin-top: 282px;
+}
+.vertical2 {
+  transform: rotate(90deg);
+  margin-left: 550px;
+  margin-top: -53px;
+}
+.picture1 {
+  height: 300px;
+  width: 300px;
+  position: absolute;
+  top: 275px;
+  border-radius: 100px;
+}
+.picture2 {
+  height: 300px;
+  width: 400px;
+  position: absolute;
+  top: 275px;
+  right: -75px;
+  border-radius: 100px;
+}
+.twitter {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  right: 120px;
+  top: 50px;
+}
+.instagram {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  right: 0px;
+  top: 50px;
+}
+.facebook {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  right: 60px;
+  top: 50px;
+}
+.description {
+  position: absolute;
+  font-size: 30px;
+  top: 210px;
+  width: 400px;
+  left: 400px;
+  margin: auto;
+}
+.bloo {
+  position: absolute;
+  height: 300px;
+  width: 250px;
+  left: 480px;
+  top: 500px;
+  border-radius: 100px;
+}
